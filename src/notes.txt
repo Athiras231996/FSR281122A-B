@@ -1,0 +1,6 @@
+Component--building blocks of a reactjs
+2 types
+1.functional Component / stateless component
+2.Class based component / stateful component
+
+props-property
